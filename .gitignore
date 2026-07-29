@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+asset_management.db
+uploads/
+.claude
